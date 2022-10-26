@@ -1,3 +1,4 @@
+pycaret
 pandas 
 scipy<=1.5.4 
 seaborn 
